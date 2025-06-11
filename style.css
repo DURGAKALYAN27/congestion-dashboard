@@ -1,0 +1,4 @@
+body { margin: 0; background: #000; display: flex; }
+#map-container { flex: 1; }
+#sidebar { width: 300px; color: #fff; background: #111; padding: 1rem; }
+.country { stroke: #222; stroke-width: 0.5px; cursor: pointer; }

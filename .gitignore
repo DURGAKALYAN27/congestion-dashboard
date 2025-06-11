@@ -1,0 +1,16 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore node/npm related files (if any in future)
+node_modules/
+dist/
+
+# Ignore Python HTTP server cache (if used)
+__pycache__/
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore logs
+*.log
